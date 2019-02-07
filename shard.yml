@@ -1,0 +1,18 @@
+name: zaptalk
+version: 0.1.0
+
+# authors:
+#   - name <email@example.com>
+
+# description: |
+#   Short description of zaptalk
+
+dependencies:
+  slang:
+    github: jeromegn/slang
+
+# development_dependencies:
+#   webmock:
+#     github: manastech/webmock.cr
+
+# license: MIT

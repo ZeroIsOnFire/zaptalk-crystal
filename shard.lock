@@ -1,0 +1,6 @@
+version: 1.0
+shards:
+  slang:
+    github: jeromegn/slang
+    version: 1.7.1
+
